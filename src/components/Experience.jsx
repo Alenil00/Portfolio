@@ -7,8 +7,6 @@ import { styles } from '../styles'
 import { experiences } from '../constants'
 import { SectionWrapper } from '../hoc'
 import { textVariant } from '../utils/motion'
-import { div, li } from 'framer-motion/client'
-import { exp } from 'three/tsl'
 
 const ExperianceCard = ({experience}) => (
   <VerticalTimelineElement 
