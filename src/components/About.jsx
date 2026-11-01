@@ -57,7 +57,7 @@ const About = () => {
         to grow.
         <br />
         <br />
-        During my studies, I gained hands-on experience through an internship
+        During my studies, I gained experience through an internship
         where I got to work on super fun and real projects. I even based my
         thesis on the cybersecurity aspects of one of those applications, which
         gave me a deeper appreciation for building software that's not only
