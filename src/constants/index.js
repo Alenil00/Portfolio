@@ -117,7 +117,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Butiksmedarbetare",
+    title: "Retail associate",
     company_name: "Netto",
     icon: Netto,
     iconBg: "#383E56",
@@ -130,7 +130,7 @@ const experiences = [
     ],
   },
   {
-    title: "Betongarbetare",
+    title: "Concrete worker",
     company_name: "Naij Betong",
     icon: naij,
     iconBg: "#E6DEDD",
@@ -143,7 +143,7 @@ const experiences = [
     ],
   },
   {
-    title: "Betongmästare",
+    title: "Concret worker",
     company_name: "K-prefab",
     icon: kprefab,
     iconBg: "#383E56",
@@ -156,8 +156,21 @@ const experiences = [
     ],
   },
   {
-    title: "Butikssäljare",
+    title: "Retail sales associate",
     company_name: "Stadium",
+    icon: stadium,
+    iconBg: "#E6DEDD",
+    date: "Nov 2023 - Present",
+    points: [
+      "Providing the assisting needs for customers with product selection, including running shoes, training gear, and sportswear.",
+      "Maintained a well-organized and visually appealing store to enhance the shopping experience.",
+      "Offered expert advice on sports equipment and apparel to help customers make informed purchasing decisions.",
+      "Worked collaboratively with team members to achieve sales goals and ensure smooth daily operations.",
+    ],
+  },
+  {
+    title: "Machine operator",
+    company_name: "Akzonobel",
     icon: stadium,
     iconBg: "#E6DEDD",
     date: "Nov 2023 - Present",

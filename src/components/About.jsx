@@ -41,20 +41,33 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 color-secondary text-[17px] max-w-3xl leading-[30px] "
       >
-        I am a dedicated fullstack JavaScript developer currently in the final
-        stage of my studies, specializing in modern web development. As part of
-        my education, I am completing my internship,
-        gaining hands-on experience in real-world projects. By the end of May, I
-        will begin working on my thesis, marking the final step toward
-        completing my studies. I am passionate about building user-friendly,
-        responsive, and scalable web applications. With expertise in JavaScript,
-        React, Node.js, and modern frameworks like Next.js and Vue.js, I strive
-        to create seamless and intuitive digital experiences. My skills also
-        extend to backend development, working with databases, APIs, and
-        authentication systems to deliver robust fullstack solutions. Eager to
-        continuously learn and grow, I am looking forward to applying my
-        knowledge in a professional environment, contributing to innovative
-        projects, and expanding my expertise in software development.
+        I'm a full-stack developer with a passion for building things for the
+        web. JavaScript is where I feel most at home, and I enjoy working across
+        the entire stack, from creating clean, responsive interfaces with React,
+        Next.js and Vue.js to building backend applications with Node.js, APIs,
+        databases and authentication.
+        <br />
+        <br />
+        I graduated about a year ago, and since then life has taken me in a
+        slightly different direction than I originally planned. After moving to
+        a new city, I needed to focus on finding work and getting settled, which
+        led me to my current job as a fitter. It's been a different experience,
+        but a fun one. Now that things have started to settle down, I'm looking
+        forward to getting back into development and finding new opportunities
+        to grow.
+        <br />
+        <br />
+        During my studies, I gained hands-on experience through an internship
+        where I got to work on super fun and real projects. I even based my
+        thesis on the cybersecurity aspects of one of those applications, which
+        gave me a deeper appreciation for building software that's not only
+        functional but also secure and reliable.
+        <br />
+        <br />
+        I'm naturally curious and enjoy figuring things out, learning new
+        technologies and finding better ways to solve problems. At the end of
+        the day, I just enjoy building things, solving problems and seeing an
+        idea turn into something real.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
